@@ -2,8 +2,8 @@
 
 ## 使用交流
 
-Telegram官方交流群: [@annonaChat](https://t.me/annonaChat)  
-关注Telegram官方频道: [@annonaOrg](https://t.me/annonaOrg) (系统更新通知，bug更新，重大事件推送)  
+AnnonaOrg官方频道: [@annonaOrg](https://t.me/annonaOrg) (系统更新通知，bug更新，重大事件推送)  
+AnnonaOrg官方交流群: [@annonaChat](https://t.me/annonaChat) (bug反馈，使用交流)    
 annona提交关注群组: [@annonaGroup](https://t.me/annonaGroup) (在本群内提交待关注群组链接)  
 
 
