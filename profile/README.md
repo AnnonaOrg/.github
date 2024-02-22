@@ -1,11 +1,11 @@
 ## Hi there 👋
-<!--
+
 ## 使用交流
 
 Telegram官方交流群: [t.me/annonaChat](https://t.me/annonaChat)  
 关注Telegram官方频道: [t.me/annonaOrg](https://t.me/annonaOrg) (系统更新通知，bug更新，重大事件推送)  
 annona提交关注群组: [t.me/annonaGroup](https://t.me/annonaGroup) (在本群内提交待关注群组链接)  
--->
+
 
 <!--
 
