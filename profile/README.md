@@ -5,7 +5,7 @@
 AnnonaOrg官方频道: [@annonaOrg](https://t.me/annonaOrg) (系统更新通知，bug更新，重大事件推送)  
 AnnonaOrg官方交流群: [@annonaChat](https://t.me/annonaChat) (bug反馈，使用交流)    
 annona提交关注收集群: [@annonaGroup](https://t.me/annonaGroup) (在本群内提交待关注群组链接)  
-英国手机卡: [自助申请giffgaff](https://www.giffgaff.com/orders/affiliate/info000_1707291927622) (免费申请快递到家)
+英国手机卡: [自助申请giffgaff](https://www.giffgaff.com/orders/affiliate/info000_1707291927622) (免费申请邮寄到家)
 
 <!--
 
