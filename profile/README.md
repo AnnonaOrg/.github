@@ -7,6 +7,14 @@ AnnonaOrg官方交流群: [@annonaChat](https://t.me/annonaChat) (bug反馈，�
 annona提交关注收集群: [@annonaGroup](https://t.me/annonaGroup) (在本群内提交待关注群组链接)  
 英国手机卡: [自助申请giffgaff](https://www.giffgaff.com/orders/affiliate/info000_1707291927622) (免费申请邮寄到家)
 
+## 打赏
+如果该项目对您有所帮助，希望可以请我喝一杯咖啡☕️
+Usdt(trc20)打赏地址: 
+```
+TQKsqiZJcgcbNfAtpjtPz9usJiEcRzTswT
+```
+
+
 <!--
 
 **Here are some ideas to get you started:**
